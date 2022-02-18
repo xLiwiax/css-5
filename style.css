@@ -1,0 +1,30 @@
+body{
+    background-color: #000000;
+}
+h1{
+    color: #8be8be;
+}
+#p1{
+    color: #00ffff;
+}
+h2{
+    color: #dc143c;
+}
+#p2{
+    color: #ff8c00;
+}
+#item1{
+    color: #ff1493;
+}
+#item2{
+    color: #7cfc00;
+}
+#item3{
+    color: #ffff00;
+}
+#item4{
+    color: #ffffff;
+}
+#item5{
+    color: lightskyblue;
+}
